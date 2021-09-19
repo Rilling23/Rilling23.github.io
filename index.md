@@ -2,7 +2,7 @@
 
 ### Resume
 -[Resume](/sample_page)
-<embed src="pdf/Christopher Rilling Geologist 2-18-19.pdf"/>
+<embed src="pdf/Christopher Rilling Geologist  2-18-19.pdf"/>
 
 ---
 
