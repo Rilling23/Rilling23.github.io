@@ -8,7 +8,7 @@
 
 ### School Maps 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](pdf/Lab_9_Map_2.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
