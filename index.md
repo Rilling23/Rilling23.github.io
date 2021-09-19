@@ -2,7 +2,7 @@
 
 ### Resume
 -[Resume](/sample_page)
-<embed src="pdf/resume.pdf"/>
+<img src="images/resume.pdf?raw=true"/>
 
 ---
 
