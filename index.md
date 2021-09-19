@@ -8,7 +8,7 @@
 
 ### School Maps 
 
-[Project 1 Title](pdf/Lab_9_Map_2.pdf)
+[University of OK Campus, 1924](pdf/Lab_9_Map_2.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
