@@ -2,7 +2,7 @@
 
 ### Resume
 [Resume](pdf/Resume.pdf)
-<img src="images/1770.jpg?raw=true"/>
+
 
 ---
 
@@ -14,7 +14,7 @@
 ---
 
 
-### School Projects
+### School Research Projects
 
 - [Project 1 Title](http://example.com/)
 
