@@ -2,7 +2,7 @@
 
 ### Resume
 -[Resume](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="pdf/Christopher Rilling Geologist 2-18-19.pdf?raw=true"/>
 
 ---
 
