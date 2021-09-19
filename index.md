@@ -9,7 +9,7 @@
 ### School Maps 
 
 [University of OK Campus, 1924](pdf/Lab_9_Map_2.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/1770.jpg?raw=true"/>
 
 ---
 
