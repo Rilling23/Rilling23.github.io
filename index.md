@@ -17,7 +17,7 @@
 ### School Research Projects
 
 - [Well Activity of Colorado's Niobrara Basin](pdf/Nio_Basin.pdf)
-- [Relationships Between Mines and Towns, Summit County, CO](pdf/Relationships.pdf
+- [Relationships Between Mines and Towns, Summit County, CO](pdf/Relationships.pdf)
 
 
 ---
