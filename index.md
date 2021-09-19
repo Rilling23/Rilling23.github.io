@@ -9,14 +9,14 @@
 ### School Maps 
 
 [University of OK Campus, 1924](pdf/Lab_9_Map_2.pdf)
-<img src="images/1770.jpg?raw=true"/>
+
 
 ---
 
 
 ### School Research Projects
 
-- [Well Activity of Colorado's Niobrara Basin](pdf/Nio_Basin)
+- [Well Activity of Colorado's Niobrara Basin](pdf/Nio_Basin.pdf)
 
 
 ---
