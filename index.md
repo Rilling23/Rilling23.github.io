@@ -1,7 +1,7 @@
 ## Portfolio
 
 ### Resume
--[Resume](/saple_page)
+-[Resume](/sample_page)
 <img src="images/dummy_thumbnbail.jpg?raw=true"/>
 
 ---
