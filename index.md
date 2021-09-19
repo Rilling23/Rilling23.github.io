@@ -1,15 +1,15 @@
 ## Portfolio
 
 ### Resume
--[Resume](/sample_page)
-<img src="images/resume.pdf?raw=true"/>
+-[Resume](pdf/resume.pdf)
+<img src="images/dummy_thumbnbail.jpg?raw=true"/>
 
 ---
 
 ### School Maps 
 
-[Project 1 Title](/sample_page)
-<img src="images/Lab 9 Map 2.pdf?raw=true"/>
+[Project 1 Title](images/Lab 9 Map 2.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
