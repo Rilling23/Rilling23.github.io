@@ -9,7 +9,6 @@
 ### School Maps 
 
 -[University of OK Campus, 1924](pdf/Lab_9_Map_2.pdf) //
--[Data Driven Pages: Homicides and Kidnappings, Detroit, MI](pdf/Lab_10.pdf)
 -[Mines of Colorado](https://arcg.is/15feH40)
 
 ---
@@ -19,7 +18,7 @@
 
 - [Well Activity of Colorado's Niobrara Basin](pdf/Nio_Basin.pdf)
 - [Relationships Between Mines and Towns, Summit County, CO](pdf/Relationships.pdf)
-
+- [Data Driven Pages: Homicides and Kidnappings, Detroit, MI](pdf/Lab_10.pdf)
 
 ---
 
