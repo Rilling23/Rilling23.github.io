@@ -9,7 +9,7 @@
 ### School Maps 
 
 -[University of OK Campus, 1924](pdf/Lab_9_Map_2.pdf)  
-<img src="images/Lab_9_Map_2.pdf?raw=true"/>
+<img src="images/Lab_9_Map_2.jpg?raw=true"/>
 -[Mines of Colorado](https://arcg.is/1zmqWS0)
 
 ---
