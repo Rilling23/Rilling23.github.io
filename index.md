@@ -12,7 +12,7 @@
 <img src="images/Lab_9_Map_2.jpg?raw=true"/><br/>
 -[Mines of Colorado](https://arcg.is/1zmqWS0)<br/>
 -[Mines of CO and Railroads](pdf/Colorado_Mines.pdf)<br/> 
-<img src="images/CO_Mines.jpg?raw=true"/><br/>
+<https://github.com/Rilling23/Rilling23.github.io/blob/master/images/CO_Mines.jpg><br/>
 -[Kincaid Fire split map](https://crilling86.users.earthengine.app/view/kincade-fire)
 
 ---
