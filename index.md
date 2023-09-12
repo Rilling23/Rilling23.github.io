@@ -13,7 +13,7 @@
 -[Mines of Colorado ArcView](https://arcg.is/1zmqWS0)<br/>
 -[Mines of Colorado](pdf/Colorado%20Mines%20with%20Year%20Discovery_Map%202.pdf)
 <img src="images/Colorado%20Mines%20with%20Year%20Discovery_Map%202.jpg?raw=true"/><br/>
--[Kincaid Fire split map](https://crilling86.users.earthengine.app/view/kincade-fire)
+-[Kincaid Fire, Santa Rosa, CA split map](https://crilling86.users.earthengine.app/view/kincade-fire)
 
 ---
 
