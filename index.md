@@ -6,6 +6,13 @@
 
 ---
 
+### Publications
+
+-[Precise Determination of Reservoir Fluids in Jurassic Kerogen from Pressurized Cores: Challenges to Success](https://onepetro.org/URTECONF/proceedings-abstract/23URTC/2-23URTC/520605)
+  
+---
+
+
 ### School Maps 
 
 -[University of OK Campus, 1924](pdf/Lab_9_Map_2.pdf) 
